@@ -1,2 +1,2 @@
-email :
-gitID :
+email :leesh0036@naver.com
+gitID :prosnail1210
